@@ -1,0 +1,122 @@
+[
+  {
+    "title": "Laboratorio clínico",
+    "subtitle": "Biomarcadores para conocer la salud",
+    "image": "assets/evaluaciones/01_Laboratorio_clinico.jpg",
+    "short": "Mide indicadores metabólicos y otros biomarcadores obtenidos de muestras biológicas.",
+    "tags": [
+      "Glucosa",
+      "Lípidos",
+      "Biomarcadores"
+    ],
+    "purpose": "Aporta información biológica para estudiar factores asociados a la salud.",
+    "description": "Los análisis incluyen glucosa, hemoglobina glucosilada, colesterol HDL y LDL, triglicéridos, creatinina, ácido úrico, AST y ALT.",
+    "tests": "Salud metabólica y cardiovascular · Función de órganos · Hematología",
+    "fullPurpose": "Muestras biológicas que ayudan a estudiar factores asociados a la salud y la enfermedad."
+  },
+  {
+    "title": "Electrocardiograma",
+    "subtitle": "La actividad eléctrica del corazón",
+    "image": "assets/evaluaciones/02_Electrocardiograma.jpg",
+    "short": "Registra la actividad eléctrica del corazón mediante una evaluación rápida y sin dolor.",
+    "tags": [
+      "Ritmo cardíaco",
+      "Actividad eléctrica"
+    ],
+    "purpose": "Integra información del funcionamiento cardíaco al seguimiento.",
+    "description": "Registra la actividad eléctrica del corazón mediante un procedimiento rápido, sin dolor y útil para la investigación.",
+    "tests": "Actividad eléctrica · Ritmo del corazón · Seguimiento cardiovascular",
+    "fullPurpose": "Permite incorporar información del funcionamiento cardíaco al seguimiento de la cohorte."
+  },
+  {
+    "title": "Espirometría",
+    "subtitle": "Cómo funcionan los pulmones",
+    "image": "assets/evaluaciones/03_Espirometria.jpg",
+    "short": "Evalúa la capacidad pulmonar y la rapidez con la que se expulsa el aire.",
+    "tags": [
+      "Capacidad pulmonar",
+      "Flujo de aire"
+    ],
+    "purpose": "Permite observar la función respiratoria a través del tiempo.",
+    "description": "Evalúa la capacidad pulmonar y la rapidez con que se expulsa el aire, con resultados que pueden compararse a lo largo del tiempo.",
+    "tests": "Capacidad pulmonar · Flujo de aire · Comparación de resultados",
+    "fullPurpose": "Aporta información para detectar alteraciones respiratorias y observar su evolución."
+  },
+  {
+    "title": "Somatometría y signos vitales",
+    "subtitle": "Mediciones que construyen una historia",
+    "image": "assets/evaluaciones/04_Somatometria_y_signos_vitales.jpg",
+    "short": "Registra peso, talla, índice de masa corporal, composición corporal, circunferencias y signos vitales.",
+    "tags": [
+      "Peso y talla",
+      "IMC",
+      "Grasa y masa magra",
+      "Circunferencias",
+      "Presión arterial"
+    ],
+    "purpose": "Permite conocer el estado físico y observar cambios en mediciones estandarizadas.",
+    "description": "Registra peso, talla, índice de masa corporal, composición corporal, circunferencias y signos vitales.",
+    "tests": "Peso y talla · IMC · Grasa y masa magra · Circunferencias · Presión arterial",
+    "fullPurpose": "Permite conocer el estado físico y observar cambios en mediciones estandarizadas."
+  },
+  {
+    "title": "Pruebas físicas",
+    "subtitle": "Fuerza, movilidad y capacidad funcional",
+    "image": "assets/evaluaciones/05_Pruebas_fisicas.jpg",
+    "short": "Evalúa fuerza de prensión manual, marcha, caminata y otras capacidades funcionales.",
+    "tags": [
+      "Fuerza",
+      "Movilidad",
+      "Resistencia"
+    ],
+    "purpose": "Aporta información sobre el desempeño físico de los participantes.",
+    "description": "Incluye pruebas de fuerza de prensión manual, marcha y caminata, junto con otras evaluaciones funcionales.",
+    "tests": "Fuerza · Marcha · Movilidad · Resistencia",
+    "fullPurpose": "Las pruebas aportan información sobre el desempeño físico de los participantes."
+  },
+  {
+    "title": "Estudios de imagen",
+    "subtitle": "Observar distintas dimensiones de la salud",
+    "image": "assets/evaluaciones/06_Estudios_de_imagen.jpg",
+    "short": "Integra densitometría, ultrasonido y FibroScan® como herramientas complementarias.",
+    "tags": [
+      "Densitometría",
+      "Ultrasonido",
+      "FibroScan®"
+    ],
+    "purpose": "Complementa las mediciones con distintas perspectivas de evaluación.",
+    "description": "Incluyen densitometría, ultrasonido y FibroScan®, como herramientas complementarias de evaluación.",
+    "tests": "Composición corporal · Ultrasonido · Evaluación abdominal · FibroScan®",
+    "fullPurpose": "Se integran como herramientas de evaluación e investigación dentro del estudio."
+  },
+  {
+    "title": "Salud visual",
+    "subtitle": "Conocer la función de la vista",
+    "image": "assets/evaluaciones/07_Salud_visual.jpg",
+    "short": "Evalúa la función visual y permite comparar sus mediciones durante el seguimiento.",
+    "tags": [
+      "Función visual",
+      "Medición",
+      "Seguimiento"
+    ],
+    "purpose": "Aporta información sobre la salud visual de los participantes.",
+    "description": "Evalúa la visión mediante mediciones que ayudan a reconocer alteraciones y comparar resultados durante el seguimiento.",
+    "tests": "Función visual · Medición · Seguimiento",
+    "fullPurpose": "Aporta información sobre salud visual a la caracterización de los participantes."
+  },
+  {
+    "title": "Cuestionarios",
+    "subtitle": "Hábitos, antecedentes y entorno",
+    "image": "assets/evaluaciones/08_Cuestionarios.jpg",
+    "short": "Recoge información de estilos de vida, antecedentes y factores del entorno.",
+    "tags": [
+      "Hábitos",
+      "Antecedentes",
+      "Entorno"
+    ],
+    "purpose": "Relaciona los hábitos y el contexto con las distintas dimensiones de salud.",
+    "description": "Recogen información de estilos de vida, antecedentes y factores del entorno para acompañar las mediciones clínicas y biológicas.",
+    "tests": "Alimentación · Actividad física · Tabaquismo · Antecedentes",
+    "fullPurpose": "Relacionan la información de hábitos y contexto con las distintas dimensiones de salud."
+  }
+]

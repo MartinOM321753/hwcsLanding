@@ -1,0 +1,148 @@
+{
+  "phases": [
+    "Línea basal · 1998–2000",
+    "Fase 1 · 2004–2006",
+    "Fase 2 · 2010–2013",
+    "Fase 3 · 2017–2019"
+  ],
+  "groups": [
+    {
+      "id": "cardiometabolica",
+      "title": "Salud cardiometabólica",
+      "intro": "Prevalencia de enfermedades cardiometabólicas durante el seguimiento.",
+      "series": [
+        {
+          "name": "Hipertensión",
+          "unit": "%",
+          "values": [
+            15.5,
+            26.9,
+            37,
+            40.1
+          ]
+        },
+        {
+          "name": "Diabetes tipo 2",
+          "unit": "%",
+          "values": [
+            4.6,
+            13.4,
+            14.3,
+            19.5
+          ]
+        },
+        {
+          "name": "Obesidad",
+          "unit": "%",
+          "values": [
+            12.1,
+            20.8,
+            19.2,
+            25.6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "habitos",
+      "title": "Estilo de vida",
+      "intro": "Cambios en tabaquismo y actividad física reportados en el material.",
+      "series": [
+        {
+          "name": "Tabaquismo actual",
+          "unit": "%",
+          "values": [
+            19,
+            17.1,
+            14.4,
+            9.6
+          ]
+        },
+        {
+          "name": "Actividad física ≥30 min/día",
+          "unit": "%",
+          "values": [
+            39.8,
+            33.1,
+            28.6,
+            26.6
+          ]
+        }
+      ]
+    },
+    {
+      "id": "nutricion",
+      "title": "Alimentación",
+      "intro": "Ingesta energética y proporción de energía aportada por carbohidratos y proteínas.",
+      "series": [
+        {
+          "name": "Ingesta energética",
+          "unit": "kcal/día",
+          "values": [
+            2530,
+            2189,
+            1937,
+            1720
+          ]
+        },
+        {
+          "name": "Carbohidratos",
+          "unit": "% de energía",
+          "values": [
+            59.5,
+            60.8,
+            65.4,
+            62.9
+          ]
+        },
+        {
+          "name": "Proteínas",
+          "unit": "% de energía",
+          "values": [
+            14.8,
+            14.4,
+            12.6,
+            13.4
+          ]
+        }
+      ]
+    },
+    {
+      "id": "antropometria",
+      "title": "Composición corporal y salud cardiovascular",
+      "intro": "Evolución del índice de masa corporal, sobrepeso y enfermedad cardiovascular.",
+      "series": [
+        {
+          "name": "Índice de masa corporal",
+          "unit": "valor reportado",
+          "values": [
+            26,
+            26.9,
+            26.9,
+            27.5
+          ]
+        },
+        {
+          "name": "Sobrepeso",
+          "unit": "%",
+          "values": [
+            39,
+            40.6,
+            39,
+            39.9
+          ]
+        },
+        {
+          "name": "Enfermedad cardiovascular",
+          "unit": "%",
+          "values": [
+            4.9,
+            6.8,
+            5.2,
+            7.2
+          ]
+        }
+      ]
+    }
+  ]
+}
