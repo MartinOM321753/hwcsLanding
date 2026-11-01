@@ -10,9 +10,9 @@
       "Biomarcadores"
     ],
     "purpose": "Aporta información biológica para estudiar factores asociados a la salud.",
-    "description": "Los análisis incluyen glucosa, hemoglobina glucosilada, colesterol HDL y LDL, triglicéridos, creatinina, ácido úrico, AST y ALT.",
+    "description": "A través de una toma de sangre y pruebas de laboratorio se miden biomarcadores como glucosa, lípidos, minerales y enzimas. Estos estudios permiten conocer aspectos de la salud de los participantes.",
     "tests": "Salud metabólica y cardiovascular · Función de órganos · Hematología",
-    "fullPurpose": "Muestras biológicas que ayudan a estudiar factores asociados a la salud y la enfermedad."
+    "fullPurpose": "Las muestras biológicas aportan información para estudiar los factores asociados a las enfermedades."
   },
   {
     "title": "Electrocardiograma",
@@ -24,13 +24,13 @@
       "Actividad eléctrica"
     ],
     "purpose": "Integra información del funcionamiento cardíaco al seguimiento.",
-    "description": "Registra la actividad eléctrica del corazón mediante un procedimiento rápido, sin dolor y útil para la investigación.",
+    "description": "Este estudio registra la actividad eléctrica del corazón mediante una evaluación rápida y sin dolor.",
     "tests": "Actividad eléctrica · Ritmo del corazón · Seguimiento cardiovascular",
-    "fullPurpose": "Permite incorporar información del funcionamiento cardíaco al seguimiento de la cohorte."
+    "fullPurpose": "Al evaluar la actividad eléctrica del corazón se obtiene información sobre el funcionamiento cardíaco durante el seguimiento de la Cohorte."
   },
   {
     "title": "Espirometría",
-    "subtitle": "Cómo funcionan los pulmones",
+    "subtitle": "¿Cómo funcionan los pulmones?",
     "image": "assets/evaluaciones/03_Espirometria.jpg",
     "short": "Evalúa la capacidad pulmonar y la rapidez con la que se expulsa el aire.",
     "tags": [
@@ -38,9 +38,9 @@
       "Flujo de aire"
     ],
     "purpose": "Permite observar la función respiratoria a través del tiempo.",
-    "description": "Evalúa la capacidad pulmonar y la rapidez con que se expulsa el aire, con resultados que pueden compararse a lo largo del tiempo.",
+    "description": "Con esta prueba se evalúa la capacidad pulmonar y la rapidez con la que se expulsa el aire.",
     "tests": "Capacidad pulmonar · Flujo de aire · Comparación de resultados",
-    "fullPurpose": "Aporta información para detectar alteraciones respiratorias y observar su evolución."
+    "fullPurpose": "Las mediciones a lo largo del tiempo se pueden comparar para detectar alteraciones respiratorias y observar su evolución."
   },
   {
     "title": "Somatometría y signos vitales",
@@ -76,7 +76,7 @@
   },
   {
     "title": "Estudios de imagen",
-    "subtitle": "Observar distintas dimensiones de la salud",
+    "subtitle": "Observar el interior del cuerpo",
     "image": "assets/evaluaciones/06_Estudios_de_imagen.jpg",
     "short": "Integra densitometría, ultrasonido y FibroScan® como herramientas complementarias.",
     "tags": [
@@ -85,9 +85,9 @@
       "FibroScan®"
     ],
     "purpose": "Complementa las mediciones con distintas perspectivas de evaluación.",
-    "description": "Incluyen densitometría, ultrasonido y FibroScan®, como herramientas complementarias de evaluación.",
+    "description": "Se incluyen estudios como la densitometría, el ultrasonido y FibroScan como herramientas complementarias para conocer el interior del cuerpo sin necesidad de una cirugía.",
     "tests": "Composición corporal · Ultrasonido · Evaluación abdominal · FibroScan®",
-    "fullPurpose": "Se integran como herramientas de evaluación e investigación dentro del estudio."
+    "fullPurpose": "Ofrecen información detallada sobre el cuerpo y la salud de los participantes que puede integrarse al estudio."
   },
   {
     "title": "Salud visual",
@@ -100,9 +100,9 @@
       "Seguimiento"
     ],
     "purpose": "Aporta información sobre la salud visual de los participantes.",
-    "description": "Evalúa la visión mediante mediciones que ayudan a reconocer alteraciones y comparar resultados durante el seguimiento.",
+    "description": "Se evalúa la visión mediante mediciones que ayudan a reconocer alteraciones y comparar los resultados durante el seguimiento.",
     "tests": "Función visual · Medición · Seguimiento",
-    "fullPurpose": "Aporta información sobre salud visual a la caracterización de los participantes."
+    "fullPurpose": "Aporta información sobre la salud visual de los participantes."
   },
   {
     "title": "Cuestionarios",
@@ -112,11 +112,12 @@
     "tags": [
       "Hábitos",
       "Antecedentes",
-      "Entorno"
+      "Entorno",
+      "Salud mental"
     ],
     "purpose": "Relaciona los hábitos y el contexto con las distintas dimensiones de salud.",
-    "description": "Recogen información de estilos de vida, antecedentes y factores del entorno para acompañar las mediciones clínicas y biológicas.",
-    "tests": "Alimentación · Actividad física · Tabaquismo · Antecedentes",
-    "fullPurpose": "Relacionan la información de hábitos y contexto con las distintas dimensiones de salud."
+    "description": "Recogen información de estilos de vida, antecedentes, salud mental y contexto de vida, incluidos factores del entorno, para acompañar las mediciones clínicas y biológicas.",
+    "tests": "Alimentación · Actividad física · Tabaquismo · Antecedentes · Salud mental y contexto de vida",
+    "fullPurpose": "Ayudan a entender cómo se relaciona la salud de las personas con sus hábitos, su salud mental y su contexto de vida."
   }
 ]

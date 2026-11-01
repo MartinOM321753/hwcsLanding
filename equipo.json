@@ -35,6 +35,26 @@
     "source": "Informacioin colaboradores (1).docx"
   },
   {
+    "name": "Berenice Rivera Paredez",
+    "role": "Profesora Asociada C tiempo completo",
+    "institution": "Universidad Nacional Autónoma de México",
+    "group": "UNAM",
+    "participation": "Planeación, Análisis",
+    "education": "Doctora en Ciencias en Epidemiología\nMaestra en Ciencias de la Salud, con área de concentración en Nutrición\nLicenciada en Nutrición",
+    "research": "Interacción entre estilos de vida, genética y microbiota intestinal en el riesgo y regulación de enfermedades metabólicas.\nComposición y distribución de la grasa corporal y su impacto en la salud metabólica de la población mexicana.\nInfluencia de los estilos de vida y la composición corporal en el envejecimiento saludable y la función cognitiva.\nFactores relacionados con el rezago académico en la población universitaria.",
+    "snii": "Nivel I",
+    "orcid": "https://orcid.org/0000-0002-9845-024X",
+    "scholar": "https://scholar.google.com/citations?user=vqrrVFYAAAAJ&hl=es",
+    "emails": [
+      "bereriverap@comunidad.unam.mx"
+    ],
+    "phones": [
+      "Teléfono: 55 56 23 23 00, ext. 82355"
+    ],
+    "image": "assets/equipo/berenice-rivera.png",
+    "source": "Información colaboradores.docx"
+  },
+  {
     "name": "Diana Ivette Aparicio Bautista",
     "role": "Investigador en Ciencias Médicas C",
     "institution": "Instituto Nacional de Medicina Genómica (INMEGEN)",
@@ -137,6 +157,26 @@
     "source": "Informacion colaboradores DR. FLORES.docx"
   },
   {
+    "name": "Dr. Rafael Velázquez Cruz",
+    "role": "Investigador en Ciencias Médicas E. Responsable del Laboratorio de Genómica del Metabolismo Óseo",
+    "institution": "Instituto Nacional de Medicina Genómica (INMEGEN)",
+    "group": "INMEGEN",
+    "participation": "Planeación, Reclutamiento, Análisis y Financiamiento.",
+    "education": "Cursó la licenciatura en Química Farmacéutica Biológica en la Universidad Autónoma Metropolitana, Unidad Xochimilco; la Maestría en Biomedicina Molecular en el Instituto Politécnico Nacional y el Doctorado en Ciencias Biomédicas de la Facultad de Medicina en la Universidad Nacional Autónoma de México. Realizó una estancia postdoctoral en el Departamento de Genética, Microbiología y Estadística de la Facultad de Biología en la Universidad de Barcelona.",
+    "research": "1. Genómica del Metabolismo óseo.\n2) Factores de riesgo genético y nutricionales en enfermedades metabólicas asociadas a la osteoporosis.\n3) Identificación de biomarcadores asociados a la variación de la densidad mineral ósea mediante herramientas ómicas - Genómica, transcriptómica y proteómica.\n4) Impacto de factores genéticos, dietarios y ambientales en la susceptibilidad a la enfermedad hepática esteatósica asociada a disfunción metabólica (MASLD) en adultos mexicanos.\n5) Eje estrógeno-microbiota intestinal: implicaciones fisiológicas y clínicas, en la menopausia.\n6) Genómica de la vitamina D.",
+    "snii": "Nivel III",
+    "orcid": "https://orcid.org/0000-0003-4515-0777",
+    "scholar": "https://scholar.google.com/citations?user=6ekpZnYAAAAJ&hl=es",
+    "emails": [
+      "rvelazquez@inmegen.gob.mx"
+    ],
+    "phones": [
+      "Teléfono: 5350-1900 ext.1233 /1149"
+    ],
+    "image": "assets/equipo/rafael-velazquez.jpeg",
+    "source": "Información colaboradores-2026.docx"
+  },
+  {
     "name": "Ricardo Orozco Zavala",
     "role": "Investigador en Ciencias Médicas “D”",
     "institution": "Instituto Nacional de Psiquiatría “Ramón de la Fuente Muñiz”",
@@ -171,5 +211,26 @@
     ],
     "image": "assets/equipo/perfil-3.jpeg",
     "source": "Informacion RFJO.docx"
+  },
+  {
+    "name": "Tania Valentina López Pérez",
+    "role": "Investigadora por México",
+    "institution": "Instituto Nacional de Medicina Genómica",
+    "group": "INMEGEN",
+    "participation": "Planeación, Reclutamiento, Análisis",
+    "education": "Posdoctorado en Genómica del Metabolismo Óseo. Instituto Nacional de Medicina Genómica.\nPosdoctorado en Genómica Funcional del Cáncer. Instituto Nacional de Medicina Genómica.\nPosdoctorado en Biología celular. Centro de Investigación y de Estudios Avanzados.\nVisiting Research Associate. School of Biomedical Sciences, Queen’s University Belfast.\nDoctora en Ciencias. Instituto de Investigaciones Biomédicas, Universidad Nacional Autónoma de México.\nBióloga. Facultad de Ciencias, Universidad Nacional Autónoma de México.",
+    "research": "Identificación de biomarcadores como herramientas de apoyo en el diagnóstico y pronóstico de la salud ósea\nEstudio funcional de proteínas involucradas en el metabolismo óseo.\nEstudio de variantes génicas asociadas a la densidad mineral ósea.",
+    "snii": "Nivel 1",
+    "orcid": "https://orcid.org/0000-0001-6381-9046",
+    "scholar": "https://scholar.google.com/citations?user=YONB14YAAAAJ&hl=en",
+    "emails": [
+      "tperez@inmegen.edu.mx"
+    ],
+    "phones": [
+      "Laboratorio: 55 53 50 19 00 Ext. 1149  y 1122",
+      "Móvil: 5529529272"
+    ],
+    "image": "assets/equipo/tania-lopez.jpeg",
+    "source": "Información Colaborador Vale.docx"
   }
 ]
