@@ -5,7 +5,7 @@ document.querySelectorAll('[data-carousel]').forEach(carousel=>{
  let width=0,offset=0,last=0,dragging=false,pointer=null,startX=0,startOffset=0,moved=false;
  const speed=Number(carousel.dataset.speed)||28;
  const render=()=>{if(!width)return;offset=((offset%width)+width)%width-width;track.style.transform=`translate3d(${offset}px,0,0)`};
- const measure=()=>{width=set.getBoundingClientRect().width;const required=Math.max(2,Math.ceil(carousel.clientWidth/Math.max(width,1))+1);while(track.children.length<required){const clone=set.cloneNode(true);clone.setAttribute('aria-hidden','true');clone.setAttribute('inert','');clone.querySelectorAll('a,button,[tabindex]').forEach(x=>x.tabIndex=-1);track.append(clone)}render()};
+ const measure=()=>{width=set.getBoundingClientRect().width;const required=Math.max(2,Math.ceil(carousel.clientWidth/Math.max(width,1))+1);while(track.children.length<required){const clone=set.cloneNode(true);clone.setAttribute('aria-hidden','true');clone.querySelectorAll('a,button,[tabindex]').forEach(x=>x.tabIndex=-1);track.append(clone)}render()};
  new ResizeObserver(measure).observe(set);measure();
  const tick=now=>{const delta=last?Math.min(now-last,80)/1000:0;last=now;if(!dragging&&!document.hidden&&!(window.siteMotion&&window.siteMotion.matches)){offset-=speed*delta;render()}requestAnimationFrame(tick)};requestAnimationFrame(tick);
  carousel.addEventListener('pointerdown',e=>{if(e.pointerType==='mouse'&&e.button!==0)return;dragging=true;pointer=e.pointerId;startX=e.clientX;startOffset=offset;moved=false});
