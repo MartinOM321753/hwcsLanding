@@ -7,7 +7,7 @@
     "participation": "Planeación, Análisis",
     "education": "Médico especialista en Genética Médica, Doctor en Genética",
     "research": "Metabolismo óseo, tumores óseos, regulación de la expresión génica, biología del telómero",
-    "snii": "2",
+    "snii": "Nivel II",
     "orcid": "https://orcid.org/0000-0003-2506-8784",
     "scholar": "https://scholar.google.com/citations?user=RxGh6-gAAAAJ&hl=en",
     "emails": [
@@ -122,6 +122,24 @@
     "source": "Informacion colaboradores_jm.docx"
   },
   {
+    "name": "Dr. Jorge Salmerón",
+    "role": "Profesor Titular C",
+    "institution": "Centro de Investigación en Políticas, Población y Salud (CIPPS)",
+    "group": "CIPPS",
+    "education": "Médico especialista en Medicina Familiar. Maestría y Doctorado en Ciencias (Epidemiología).",
+    "research": "Enfermedades crónicas, epidemiología nutricional, VPH y prevención de cáncer cervical.",
+    "snii": "Nivel III",
+    "orcid": "https://orcid.org/0000-0002-5113-299X",
+    "scholar": "https://scholar.google.com/citations?user=rQnxZwgAAAAJ&hl=es",
+    "emails": [
+      "jorge.salmec@gmail.com",
+      "drjorgesalmeron@unam.mx"
+    ],
+    "image": "assets/equipo/jorge-salmeron.jpg",
+    "source": "Dr Jorge Salmeron.docx",
+    "participation": "Planeación, Reclutamiento, Análisis"
+  },
+  {
     "name": "Katia Gallegos Carrillo",
     "role": "Responsable del proyecto en el IMSS. Investigadora Titular C",
     "institution": "Instituto Mexicano del Seguro Social/Unidad de Investigación Epidemiológica y en Servicios de Salud, Morelos.",
@@ -129,7 +147,7 @@
     "participation": "Planeación, Reclutamiento, Análisis",
     "education": "\nLicenciada en Comunicación, Maestra en Ciencias en Sistemas de Salud y Doctora en Ciencias en Salud Pública por la Escuela de Salud Pública de México del Instituto Nacional de Salud Pública. Estancias posdoctorales en Medicina Preventiva en la Keck School of Medicine de la Universidad del Sur de California y en Prevención y Control de Cáncer en el Hackensack University Medical Center, Nueva Jersey, Estados Unidos.",
     "research": "\nSu trabajo se enfoca en la epidemiología de las enfermedades crónicas y en las ciencias de implementación, con especial interés en la generación de evidencia para fortalecer la adopción, escalamiento y sostenibilidad de intervenciones efectivas en los sistemas de salud. Sus líneas de investigación incluyen los estilos de vida como factores de riesgo para enfermedades crónicas, particularmente la actividad física y el consumo de tabaco, así como el diseño, implementación y evaluación de programas de salud dirigidos a la prevención, detección oportuna y control de diabetes, hipertensión y cáncer. Su investigación busca cerrar la brecha entre la evidencia científica y la práctica, promoviendo estrategias que mejoren la calidad, cobertura e impacto de los servicios de salud.",
-    "snii": "Investigadora Nacional Nivel III",
+    "snii": "Nivel III",
     "orcid": "https://orcid.org/0000-0001-6056-8587",
     "scholar": "https://scholar.google.com/citations?user=HDeIzlMAAAAJ&hl=en",
     "emails": [
@@ -140,6 +158,26 @@
     "source": "Informacion colaboradores KG.docx"
   },
   {
+    "name": "Manuel Quiterio Trenado",
+    "role": "Jefe de departamento en área médica A",
+    "institution": "Instituto Nacional de Salud Pública",
+    "group": "INSP",
+    "education": "Biólogo",
+    "research": "Virus de Papiloma Humano.",
+    "snii": "No pertenezco",
+    "orcid": "https://orcid.org/0000-0002-2575-4963",
+    "scholar": "",
+    "emails": [
+      "mquitero@insp.mx"
+    ],
+    "phones": [
+      "Institucional: 777 329 3000, ext. 3284"
+    ],
+    "image": "assets/equipo/manuel-quiterio.jpg",
+    "source": "DrManuelQuiterioTrenado.docx",
+    "participation": "Planeación, Reclutamiento, Análisis"
+  },
+  {
     "name": "Mario Efraín Flores Aldana",
     "role": "Jefe de Departamento en el CINyS/INSP",
     "institution": "INSP",
@@ -147,7 +185,7 @@
     "participation": "Planeación, Reclutamiento, Análisis",
     "education": "Médico Cirujano (Universidad de San Carlos de Guatemala), PhD en Políticas Alimentarias y Nutrición Aplicada (Tufts University, Boston)",
     "research": "Dieta, deficiencias nutricionales, enfermedades crónicas asociadas a la nutrición, vitamina D.",
-    "snii": "II",
+    "snii": "Nivel II",
     "orcid": "https://orcid.org/0000-0001-5522-6849",
     "scholar": "https://scholar.google.com/scholar?hl=es&as_sdt=0%2C5&q=Dr.+mario+flores-aldana&oq=",
     "emails": [
@@ -202,7 +240,7 @@
     "participation": "Planeación, Análisis",
     "education": "Biología\nDoctorado en Ciencias Biomédicas",
     "research": "\n1. Genética, genómica y epigenética de enfermedades crónico-degenerativas.\nIdentificación de variantes genéticas y biomarcadores moleculares asociados con enfermedades musculoesqueléticas y metabólicas.\n2. Microbiota intestinal, inmunometabolismo y salud musculoesquelética.\nEstudio de la interacción entre microbiota intestinal, inflamación y metabolismo óseo y muscular en el envejecimiento y las enfermedades crónico-degenerativas.",
-    "snii": "Nivel 1",
+    "snii": "Nivel I",
     "orcid": "https://orcid.org/0000-0002-3976-4759",
     "scholar": "https://scholar.google.com/citations?user=puqahloAAAAJ&hl=es",
     "emails": [
@@ -213,6 +251,23 @@
     "source": "Informacion RFJO.docx"
   },
   {
+    "name": "Sonia Hernández Salazar",
+    "role": "Estudiante de doctorado",
+    "institution": "Centro de Investigación en Políticas, Población y Salud (CIPPS)",
+    "group": "CIPPS",
+    "education": "Licenciatura en Nutrición. Maestría en Ciencias en Nutrición.",
+    "research": "VPH, cáncer cervical.",
+    "snii": "NA",
+    "orcid": "https://orcid.org/0000-0001-7307-4308",
+    "scholar": "https://scholar.google.com/citations?view_op=list_works&hl=es&authuser=1&user=kTpMS9cAAAAJ",
+    "emails": [
+      "sonyhernandez79@gmail.com"
+    ],
+    "image": "assets/equipo/sonia-hernandez-salazar.jpeg",
+    "source": "SoniaHernandezSalazar.docx",
+    "participation": "Planeación, Reclutamiento, Análisis"
+  },
+  {
     "name": "Tania Valentina López Pérez",
     "role": "Investigadora por México",
     "institution": "Instituto Nacional de Medicina Genómica",
@@ -220,7 +275,7 @@
     "participation": "Planeación, Reclutamiento, Análisis",
     "education": "Posdoctorado en Genómica del Metabolismo Óseo. Instituto Nacional de Medicina Genómica.\nPosdoctorado en Genómica Funcional del Cáncer. Instituto Nacional de Medicina Genómica.\nPosdoctorado en Biología celular. Centro de Investigación y de Estudios Avanzados.\nVisiting Research Associate. School of Biomedical Sciences, Queen’s University Belfast.\nDoctora en Ciencias. Instituto de Investigaciones Biomédicas, Universidad Nacional Autónoma de México.\nBióloga. Facultad de Ciencias, Universidad Nacional Autónoma de México.",
     "research": "Identificación de biomarcadores como herramientas de apoyo en el diagnóstico y pronóstico de la salud ósea\nEstudio funcional de proteínas involucradas en el metabolismo óseo.\nEstudio de variantes génicas asociadas a la densidad mineral ósea.",
-    "snii": "Nivel 1",
+    "snii": "Nivel I",
     "orcid": "https://orcid.org/0000-0001-6381-9046",
     "scholar": "https://scholar.google.com/citations?user=YONB14YAAAAJ&hl=en",
     "emails": [
@@ -232,5 +287,22 @@
     ],
     "image": "assets/equipo/tania-lopez.jpeg",
     "source": "Información Colaborador Vale.docx"
+  },
+  {
+    "name": "Thalía Garcés-Jurado",
+    "role": "Estudiante de doctorado",
+    "institution": "Centro de Investigación en Políticas, Población y Salud (CIPPS)",
+    "group": "CIPPS",
+    "education": "Licenciatura en Nutrición. Maestría en Ciencias.",
+    "research": "Epidemiología, epidemiología nutricional.",
+    "snii": "NA",
+    "orcid": "https://orcid.org/0009-0000-1766-846X",
+    "scholar": "https://scholar.google.com/citations?view_op=list_works&hl=es&authuser=1&user=kTpMS9cAAAAJ",
+    "emails": [
+      "thgarcesj@gmail.com"
+    ],
+    "image": "assets/equipo/thalia-garces-jurado.jpeg",
+    "source": "Thalía Garcés-Jurado.docx",
+    "participation": "Planeación, Reclutamiento, Análisis"
   }
 ]

@@ -59,3 +59,23 @@ body{height:100vh;height:100dvh;min-height:0;display:grid;grid-template-rows:aut
 @media(max-width:700px){.site-footer{padding:8px 18px 12px;overflow:visible}.institution-strip{width:100%;overflow:visible}.institution-strip>p{margin-bottom:10px}.institution-marquee{display:block;width:100%;animation:none!important}.institution-row{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));justify-items:center;align-items:center;gap:10px 12px;padding:0;width:100%}.institution-row img{width:38px!important;height:43px;max-width:100%;min-width:0;object-fit:contain}.institution-row img:nth-child(2){width:44px!important}.institution-row img:nth-child(4){width:39px!important}.institution-row img:nth-child(n+5){width:100%!important;height:43px;max-width:100%}.institution-row img:nth-child(8){width:55px!important}.institution-copy{display:none!important}}
 /* Final optical adjustment: the last four institutions are 25% smaller. */
 .institution-row img:nth-child(n+5),.institution-row img:nth-child(n+5):hover{transform:scale(.75)!important;transform-origin:center center}
+
+/* Institution order may change; optical sizes follow the institution. */
+.institution-row img[class]{width:69px!important;max-width:10%;height:78px;transform:none!important;filter:grayscale(1) brightness(0) invert(.85) sepia(.15);opacity:.88}
+.institution-row img.institution-unam-medicina{width:79.5px!important}
+.institution-row img.institution-inmegen{width:82.5px!important}
+.institution-row img.institution-insp{filter:grayscale(1) invert(1) brightness(1.05);opacity:1}
+.institution-row img.institution-cipps{width:142px!important;max-width:14%}
+.institution-row img.institution-nutricion{width:140px!important;max-width:14%}
+.institution-row img.institution-psiquiatria{width:145px!important;max-width:14%}
+.institution-row img.institution-diabetes-morelos{width:80px!important}
+.institution-row img.institution-inr{width:150px!important;max-width:14%;filter:none;opacity:1;object-fit:contain}
+.institution-row img[class]:hover{transform:none!important}
+@media(max-width:700px){
+ .institution-row{grid-template-columns:repeat(3,minmax(0,1fr));gap:8px 12px}
+ .institution-row img[class]{width:44px!important;height:40px;max-width:100%}
+ .institution-row img.institution-cipps,.institution-row img.institution-nutricion,.institution-row img.institution-psiquiatria,.institution-row img.institution-inr{width:100%!important;max-width:115px}
+ .institution-row img.institution-diabetes-morelos{width:52px!important}
+}
+
+.institution-row img.institution-inr{filter:grayscale(1) brightness(0) invert(.85) sepia(.15);opacity:.88}

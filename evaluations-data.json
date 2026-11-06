@@ -31,7 +31,7 @@
   {
     "title": "Espirometría",
     "subtitle": "¿Cómo funcionan los pulmones?",
-    "image": "assets/evaluaciones/03_Espirometria.jpg",
+    "image": "assets/evaluaciones/cohorte-espirometria.jpg",
     "short": "Evalúa la capacidad pulmonar y la rapidez con la que se expulsa el aire.",
     "tags": [
       "Capacidad pulmonar",
@@ -45,7 +45,7 @@
   {
     "title": "Somatometría y signos vitales",
     "subtitle": "Mediciones que construyen una historia",
-    "image": "assets/evaluaciones/04_Somatometria_y_signos_vitales.jpg",
+    "image": "assets/evaluaciones/cohorte-somatometria.jpg",
     "short": "Registra peso, talla, índice de masa corporal, composición corporal, circunferencias y signos vitales.",
     "tags": [
       "Peso y talla",
@@ -62,7 +62,7 @@
   {
     "title": "Pruebas físicas",
     "subtitle": "Fuerza, movilidad y capacidad funcional",
-    "image": "assets/evaluaciones/05_Pruebas_fisicas.jpg",
+    "image": "assets/evaluaciones/cohorte-pruebas-fisicas.jpg",
     "short": "Evalúa fuerza de prensión manual, marcha, caminata y otras capacidades funcionales.",
     "tags": [
       "Fuerza",
@@ -77,7 +77,7 @@
   {
     "title": "Estudios de imagen",
     "subtitle": "Observar el interior del cuerpo",
-    "image": "assets/evaluaciones/06_Estudios_de_imagen.jpg",
+    "image": "assets/evaluaciones/cohorte-estudios-de-imagen.jpg",
     "short": "Integra densitometría, ultrasonido y FibroScan® como herramientas complementarias.",
     "tags": [
       "Densitometría",
