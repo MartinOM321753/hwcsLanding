@@ -37,8 +37,8 @@
   {
     "name": "Berenice Rivera Paredez",
     "role": "Profesora Asociada C tiempo completo",
-    "institution": "Universidad Nacional Autónoma de México",
-    "group": "UNAM",
+    "institution": "Centro de Investigación en Políticas, Población y Salud (CIPPS), Universidad Nacional Autónoma de México",
+    "group": "CIPPS",
     "participation": "Planeación, Análisis",
     "education": "Doctora en Ciencias en Epidemiología\nMaestra en Ciencias de la Salud, con área de concentración en Nutrición\nLicenciada en Nutrición",
     "research": "Interacción entre estilos de vida, genética y microbiota intestinal en el riesgo y regulación de enfermedades metabólicas.\nComposición y distribución de la grasa corporal y su impacto en la salud metabólica de la población mexicana.\nInfluencia de los estilos de vida y la composición corporal en el envejecimiento saludable y la función cognitiva.\nFactores relacionados con el rezago académico en la población universitaria.",
@@ -118,7 +118,7 @@
     "emails": [
       "ml.joacim@gmail.com"
     ],
-    "image": "assets/equipo/perfil-9.png",
+    "image": "assets/equipo/joacim-meneses-leon-v2.jpeg",
     "source": "Informacion colaboradores_jm.docx"
   },
   {
@@ -154,7 +154,7 @@
       "katia.gallegos@imss.gob.mx",
       "kgallegosc13@gmail.com"
     ],
-    "image": "",
+    "image": "assets/equipo/katia-gallegos-carrillo.jpeg",
     "source": "Informacion colaboradores KG.docx"
   },
   {
@@ -268,6 +268,24 @@
     "participation": "Planeación, Reclutamiento, Análisis"
   },
   {
+    "name": "Tania Georgina Sánchez Pimienta",
+    "role": "Investigador",
+    "institution": "Secretaría de Ciencia, Humanidades, Tecnología e Innovación. Instituto Nacional de Salud Pública",
+    "group": "INSP",
+    "participation": "Planeación, Reclutamiento, Análisis",
+    "education": "Licenciada en nutrición por la Universidad de Guadalajara. Maestra en Ciencias de la Salud con área de concentración en Nutrición y Doctora en Ciencias en Nutrición Poblacional de la Escuela de Salud Pública de México.",
+    "research": "Dieta y enfermedades crónicas, adecuación de nutrimentos, dietas saludables y sostenibles",
+    "snii": "Nivel I",
+    "orcid": "https://orcid.org/0000-0002-7743-0047",
+    "scholar": "https://scholar.google.com/citations?user=y1uOTy4AAAAJ&hl=es",
+    "emails": [
+      "taniagsp@hotmail.com",
+      "investigador68@insp.mx"
+    ],
+    "image": "assets/equipo/tania-georgina-sanchez-pimienta.png",
+    "source": "Información colaboradores_ts.docx"
+  },
+  {
     "name": "Tania Valentina López Pérez",
     "role": "Investigadora por México",
     "institution": "Instituto Nacional de Medicina Genómica",
@@ -304,5 +322,42 @@
     "image": "assets/equipo/thalia-garces-jurado.jpeg",
     "source": "Thalía Garcés-Jurado.docx",
     "participation": "Planeación, Reclutamiento, Análisis"
+  },
+  {
+    "name": "Norberto C. Chávez Tapia",
+    "role": "Jefe de Gastroenterología",
+    "institution": "Fundación Clínica Médica Sur",
+    "group": "Médica Sur",
+    "participation": "Planeación, Reclutamiento, Análisis",
+    "education": "Medicina; Medicina Interna; Gastroenterología; Máster en Escritura Creativa; Doctorado en Ciencias.",
+    "research": "Cirrosis y enfermedad por hígado graso.",
+    "snii": "Nivel II",
+    "orcid": "https://orcid.org/0000-0002-7451-3306",
+    "scholar": "https://scholar.google.com/citations?user=J1QqE5EAAAAJ&hl",
+    "emails": [
+      "nchavezt@pm.me"
+    ],
+    "phones": [
+      "55 54 24 68 92"
+    ],
+    "image": "assets/equipo/norberto-chavez-tapia.jpeg",
+    "source": "Dr. Norberto Carlos Chavez Tapia.docx"
+  },
+  {
+    "name": "Yenisei Ramírez Toscano",
+    "role": "Profesora de Tiempo Completo Asociada A",
+    "institution": "Departamento de Medicina Preventiva y Salud Pública, Facultad de Medicina y Hospital Universitario, Universidad Autónoma de Nuevo León",
+    "group": "UANL",
+    "participation": "",
+    "education": "Doctora en Ciencias en Nutrición Poblacional.",
+    "research": "Determinantes sociales y estructurales de la alimentación, el consumo de alcohol y la salud; políticas públicas relacionadas con el entorno social y construido y la salud de la población; métodos epidemiológicos.",
+    "snii": "Candidata; Nivel I a partir de enero de 2027",
+    "orcid": "https://orcid.org/0000-0002-3440-1078",
+    "scholar": "https://scholar.google.com/citations?user=Sq4lshoAAAAJ&hl=en&oi=ao",
+    "emails": [
+      "yenisei.ramirezts@uanl.edu.mx"
+    ],
+    "image": "assets/equipo/yenisei-ramirez-toscano.jpeg",
+    "source": "Yenisei Ramirez Toscano.docx"
   }
 ]

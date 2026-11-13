@@ -3,3 +3,5 @@
 
 .institution-page [hidden]{display:none!important}
 .floating-header>.institution-back{color:#fff}.institution-page .section-heading p{margin-left:0}.institution-page-logo{margin-bottom:16px}
+
+.team-avatar img{cursor:zoom-in}.team-photo-viewer{position:relative;width:fit-content;max-width:96vw;max-height:94dvh;padding:14px;border:1px solid #c7ac76;border-radius:20px;background:#f6f3ea;overflow:visible}.team-photo-viewer::backdrop{background:#091a15dd;backdrop-filter:blur(6px)}.team-photo-viewer>img{display:block;max-width:min(92vw,1080px);max-height:88dvh;object-fit:contain;border-radius:12px}.team-photo-close{position:absolute;top:20px;right:20px;z-index:1;width:42px;height:42px;border-radius:50%;border:1px solid #fff8;background:#183a31;color:#fff;font-size:26px;line-height:1;cursor:pointer}.team-photo-close:focus-visible{outline:3px solid #d2b575;outline-offset:3px}

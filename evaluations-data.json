@@ -1,123 +1,122 @@
 [
   {
     "title": "Laboratorio clínico",
-    "subtitle": "Biomarcadores para conocer la salud",
+    "subtitle": "Biomarcadores en categorías clínicas",
     "image": "assets/evaluaciones/01_Laboratorio_clinico.jpg",
-    "short": "Mide indicadores metabólicos y otros biomarcadores obtenidos de muestras biológicas.",
+    "short": "Muestras biológicas para analizar grupos de biomarcadores y seguir cambios en la salud.",
     "tags": [
-      "Glucosa",
+      "Hematología",
       "Lípidos",
-      "Biomarcadores"
+      "Glucosa y metabolismo",
+      "Función hepática",
+      "Función renal",
+      "Salud ósea"
     ],
     "purpose": "Aporta información biológica para estudiar factores asociados a la salud.",
-    "description": "A través de una toma de sangre y pruebas de laboratorio se miden biomarcadores como glucosa, lípidos, minerales y enzimas. Estos estudios permiten conocer aspectos de la salud de los participantes.",
-    "tests": "Salud metabólica y cardiovascular · Función de órganos · Hematología",
-    "fullPurpose": "Las muestras biológicas aportan información para estudiar los factores asociados a las enfermedades."
+    "description": "Los análisis de laboratorio se organizan en categorías como hematología, metabolismo de la glucosa, lípidos y funciones hepática y renal. Las mediciones disponibles pueden variar según la fase del estudio.",
+    "fullPurpose": "Las muestras biológicas permiten estudiar biomarcadores vinculados con la salud y observar su evolución. Algunas mediciones corresponden a fases o subestudios específicos."
   },
   {
     "title": "Electrocardiograma",
-    "subtitle": "La actividad eléctrica del corazón",
+    "subtitle": "Ritmo y actividad eléctrica",
     "image": "assets/evaluaciones/02_Electrocardiograma.jpg",
-    "short": "Registra la actividad eléctrica del corazón mediante una evaluación rápida y sin dolor.",
+    "short": "Registra señales eléctricas del corazón para describir su ritmo y conducción.",
     "tags": [
-      "Ritmo cardíaco",
-      "Actividad eléctrica"
+      "Frecuencia y ritmo",
+      "Intervalos eléctricos",
+      "Conducción cardíaca"
     ],
-    "purpose": "Integra información del funcionamiento cardíaco al seguimiento.",
-    "description": "Este estudio registra la actividad eléctrica del corazón mediante una evaluación rápida y sin dolor.",
-    "tests": "Actividad eléctrica · Ritmo del corazón · Seguimiento cardiovascular",
-    "fullPurpose": "Al evaluar la actividad eléctrica del corazón se obtiene información sobre el funcionamiento cardíaco durante el seguimiento de la Cohorte."
+    "purpose": "Describe la actividad eléctrica cardíaca en el momento de la evaluación.",
+    "description": "El electrocardiograma registra la actividad eléctrica del corazón. Sus medidas permiten caracterizar la frecuencia, el ritmo y distintos intervalos de conducción.",
+    "fullPurpose": "Esta evaluación aporta información cardiovascular complementaria para el seguimiento de las personas participantes."
   },
   {
     "title": "Espirometría",
-    "subtitle": "¿Cómo funcionan los pulmones?",
+    "subtitle": "Volúmenes y flujos respiratorios",
     "image": "assets/evaluaciones/cohorte-espirometria.jpg",
-    "short": "Evalúa la capacidad pulmonar y la rapidez con la que se expulsa el aire.",
+    "short": "Describe la capacidad respiratoria mediante volúmenes y flujos de aire.",
     "tags": [
-      "Capacidad pulmonar",
+      "Capacidad vital",
+      "Volumen espiratorio",
       "Flujo de aire"
     ],
-    "purpose": "Permite observar la función respiratoria a través del tiempo.",
-    "description": "Con esta prueba se evalúa la capacidad pulmonar y la rapidez con la que se expulsa el aire.",
-    "tests": "Capacidad pulmonar · Flujo de aire · Comparación de resultados",
-    "fullPurpose": "Las mediciones a lo largo del tiempo se pueden comparar para detectar alteraciones respiratorias y observar su evolución."
+    "purpose": "Caracteriza la función respiratoria a partir de maniobras de respiración.",
+    "description": "La espirometría registra cuánto aire se moviliza y con qué rapidez se expulsa. Los resultados permiten describir la función pulmonar y compararla durante el seguimiento.",
+    "fullPurpose": "Las mediciones respiratorias complementan la evaluación integral y permiten estudiar cambios en la función pulmonar."
   },
   {
     "title": "Somatometría y signos vitales",
-    "subtitle": "Mediciones que construyen una historia",
+    "subtitle": "Mediciones corporales y signos vitales",
     "image": "assets/evaluaciones/cohorte-somatometria.jpg",
-    "short": "Registra peso, talla, índice de masa corporal, composición corporal, circunferencias y signos vitales.",
+    "short": "Reúne medidas corporales y signos vitales en una valoración integrada.",
     "tags": [
       "Peso y talla",
-      "IMC",
-      "Grasa y masa magra",
+      "Composición corporal",
       "Circunferencias",
-      "Presión arterial"
+      "Presión arterial",
+      "Pulso y oxigenación"
     ],
-    "purpose": "Permite conocer el estado físico y observar cambios en mediciones estandarizadas.",
-    "description": "Registra peso, talla, índice de masa corporal, composición corporal, circunferencias y signos vitales.",
-    "tests": "Peso y talla · IMC · Grasa y masa magra · Circunferencias · Presión arterial",
-    "fullPurpose": "Permite conocer el estado físico y observar cambios en mediciones estandarizadas."
+    "purpose": "Describe características corporales y signos vitales relevantes para el estudio.",
+    "description": "Incluye mediciones de peso, talla, composición corporal y circunferencias, junto con signos vitales como presión arterial, pulso y oxigenación.",
+    "fullPurpose": "Estas mediciones ayudan a describir el estado corporal y a contextualizar otros indicadores de salud."
   },
   {
     "title": "Pruebas físicas",
-    "subtitle": "Fuerza, movilidad y capacidad funcional",
+    "subtitle": "Capacidad funcional y movimiento",
     "image": "assets/evaluaciones/cohorte-pruebas-fisicas.jpg",
-    "short": "Evalúa fuerza de prensión manual, marcha, caminata y otras capacidades funcionales.",
+    "short": "Explora movilidad, fuerza y capacidad para realizar actividad física.",
     "tags": [
-      "Fuerza",
-      "Movilidad",
-      "Resistencia"
+      "Marcha y movilidad",
+      "Resistencia",
+      "Equilibrio",
+      "Fuerza muscular"
     ],
-    "purpose": "Aporta información sobre el desempeño físico de los participantes.",
-    "description": "Incluye pruebas de fuerza de prensión manual, marcha y caminata, junto con otras evaluaciones funcionales.",
-    "tests": "Fuerza · Marcha · Movilidad · Resistencia",
-    "fullPurpose": "Las pruebas aportan información sobre el desempeño físico de los participantes."
+    "purpose": "Observa capacidades físicas funcionales mediante pruebas estandarizadas.",
+    "description": "Las pruebas físicas permiten observar el desempeño en actividades de movimiento, resistencia y fuerza, con procedimientos definidos para cada evaluación.",
+    "fullPurpose": "La información funcional complementa las mediciones clínicas y ayuda a estudiar la capacidad física a lo largo del tiempo."
   },
   {
     "title": "Estudios de imagen",
-    "subtitle": "Observar el interior del cuerpo",
+    "subtitle": "Imagen y evaluación de tejidos",
     "image": "assets/evaluaciones/cohorte-estudios-de-imagen.jpg",
-    "short": "Integra densitometría, ultrasonido y FibroScan® como herramientas complementarias.",
+    "short": "Agrupa estudios de imagen para observar características óseas y abdominales.",
     "tags": [
-      "Densitometría",
+      "Densidad mineral ósea",
       "Ultrasonido",
-      "FibroScan®"
+      "Evaluación hepática"
     ],
-    "purpose": "Complementa las mediciones con distintas perspectivas de evaluación.",
-    "description": "Se incluyen estudios como la densitometría, el ultrasonido y FibroScan como herramientas complementarias para conocer el interior del cuerpo sin necesidad de una cirugía.",
-    "tests": "Composición corporal · Ultrasonido · Evaluación abdominal · FibroScan®",
-    "fullPurpose": "Ofrecen información detallada sobre el cuerpo y la salud de los participantes que puede integrarse al estudio."
+    "purpose": "Ofrece mediciones complementarias sobre tejidos y órganos seleccionados.",
+    "description": "Según la fase y el subestudio, pueden realizarse densitometría, ultrasonido y evaluación hepática por elastografía. Son herramientas complementarias a las mediciones clínicas y de laboratorio.",
+    "fullPurpose": "Los estudios de imagen permiten explorar características óseas y de tejidos seleccionados dentro de protocolos específicos."
   },
   {
     "title": "Salud visual",
-    "subtitle": "Conocer la función de la vista",
+    "subtitle": "Función visual",
     "image": "assets/evaluaciones/07_Salud_visual.jpg",
-    "short": "Evalúa la función visual y permite comparar sus mediciones durante el seguimiento.",
+    "short": "Caracteriza la visión mediante mediciones funcionales y comparables.",
     "tags": [
-      "Función visual",
-      "Medición",
-      "Seguimiento"
+      "Agudeza visual",
+      "Refracción",
+      "Presión intraocular"
     ],
-    "purpose": "Aporta información sobre la salud visual de los participantes.",
-    "description": "Se evalúa la visión mediante mediciones que ayudan a reconocer alteraciones y comparar los resultados durante el seguimiento.",
-    "tests": "Función visual · Medición · Seguimiento",
-    "fullPurpose": "Aporta información sobre la salud visual de los participantes."
+    "purpose": "Describe distintos aspectos de la función visual de las personas participantes.",
+    "description": "La evaluación reúne mediciones de visión que permiten caracterizar la función visual y registrar sus resultados para el seguimiento.",
+    "fullPurpose": "La información visual forma parte de la valoración de salud y puede analizarse junto con las demás mediciones del estudio."
   },
   {
     "title": "Cuestionarios",
-    "subtitle": "Hábitos, antecedentes y entorno",
+    "subtitle": "Cuestionarios sobre salud y vida cotidiana",
     "image": "assets/evaluaciones/08_Cuestionarios.jpg",
-    "short": "Recoge información de estilos de vida, antecedentes y factores del entorno.",
+    "short": "Integra información general, salud, hábitos y contexto psicosocial.",
     "tags": [
-      "Hábitos",
-      "Antecedentes",
-      "Entorno",
-      "Salud mental"
+      "Información general",
+      "Salud y antecedentes familiares",
+      "Estilos de vida",
+      "Factores psicosociales",
+      "Otras mediciones"
     ],
-    "purpose": "Relaciona los hábitos y el contexto con las distintas dimensiones de salud.",
-    "description": "Recogen información de estilos de vida, antecedentes, salud mental y contexto de vida, incluidos factores del entorno, para acompañar las mediciones clínicas y biológicas.",
-    "tests": "Alimentación · Actividad física · Tabaquismo · Antecedentes · Salud mental y contexto de vida",
-    "fullPurpose": "Ayudan a entender cómo se relaciona la salud de las personas con sus hábitos, su salud mental y su contexto de vida."
+    "purpose": "Ayudan a comprender la salud en relación con la historia, los hábitos y el contexto de vida.",
+    "description": "Los cuestionarios incluyen información general; condiciones de salud y antecedentes familiares; estilos de vida —tabaquismo, nutrición, actividad física, alcohol y sueño—; factores psicosociales; y otras mediciones. Los módulos pueden variar según la fase del estudio.",
+    "fullPurpose": "La información autorreportada complementa las evaluaciones clínicas, físicas y biológicas para ofrecer una perspectiva más amplia de la salud."
   }
 ]
