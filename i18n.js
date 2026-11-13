@@ -1,4 +1,5 @@
 (() => {
+  const iconUrl = new URL("assets/translation-icon.png", document.currentScript ? document.currentScript.src : document.baseURI).href;
   const translations = {
     "Cohorte de Trabajadores de la Salud | Investigación longitudinal": "Health Workers Cohort Study | Longitudinal research",
     "Cohorte de Trabajadores de la Salud": "Health Workers Cohort Study",
@@ -275,7 +276,7 @@
   button.className = "language-toggle motion-reveal";
   button.setAttribute("aria-haspopup", "menu");
   button.setAttribute("aria-expanded", "false");
-  button.innerHTML = '<img class="language-icon" src="assets/translation-icon.png" alt="" aria-hidden="true" width="22" height="22"><span class="language-current" aria-hidden="true"></span>';
+  button.innerHTML = '<img class="language-icon" src="' + iconUrl + '" alt="" aria-hidden="true" width="22" height="22"><span class="language-current" aria-hidden="true"></span>';
   button.style.cssText = "display:inline-flex;align-items:center;justify-content:center;gap:6px;min-width:62px;height:40px;border:0;border-radius:0;padding:0 9px;background:transparent;color:inherit;font:600 13px/1 Arial,Helvetica,sans-serif;cursor:pointer";
   const menu = document.createElement("div");
   menu.className = "language-menu";
