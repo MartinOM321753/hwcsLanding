@@ -187,8 +187,8 @@
 .data-product-other{margin-top:15px}
 .data-form-error{margin:12px 0 0;color:#9e3b35;font-size:13px}
 .data-form-footer{display:grid;justify-items:start;gap:15px;padding:clamp(24px,4vw,38px)}
-.data-form-footer>p:first-child{margin:0;color:#68776a;font-size:13px;line-height:1.6}
-.data-form-footer>p:first-child a{color:#35664d;text-underline-offset:3px}
+.data-form-footer>p.data-step-footer-note{margin:0;color:#68776a;font-size:13px;line-height:1.6}
+.data-form-footer>p.data-step-footer-note a{color:#35664d;text-underline-offset:3px}
 .data-step-actions{display:flex;align-items:center;justify-content:flex-end;justify-self:stretch;gap:12px;flex-wrap:wrap}
 .data-step-back{min-height:48px;padding:12px 19px;border:1px solid #cbd4c8;border-radius:999px;background:#fbfaf5;color:#315b46;font-family:inherit;font-size:14px;font-weight:600;line-height:1.2;cursor:pointer;transition:background .2s,border-color .2s}
 .data-step-back:hover{background:#eff2e9;border-color:#99ad98}
